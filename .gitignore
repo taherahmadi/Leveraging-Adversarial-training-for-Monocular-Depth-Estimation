@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+.ipynb_checkpoints
+.ipynb_checkpoints
+__pycache__
+pretrained_model/__pycache__
+final_model.pth
+pretrained_model
+data
