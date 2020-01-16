@@ -24,5 +24,5 @@ Download the data:
 + ### Training<br>
   python train.py<br>
 
-Citation:
+Citation:<br>
 this work is a extension on the: Revisiting Single Image Depth Estimation: Toward Higher Resolution Maps With Accurate Object Boundaries. Junjie Hu et al.
