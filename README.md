@@ -3,7 +3,7 @@ adding a discriminator network and introducing two new loss functions for monocu
 
 Results
 -
-![](https://github.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/examples/demo.gif)
+![](https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/demo.gif)
 
 Dependencies
 -
