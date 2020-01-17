@@ -13,9 +13,15 @@ Dependencies
 Running
 -
 
-Download the trained models:
+Download the trained models and put in the root of project:
 [Depth estimation networks](https://drive.google.com/file/d/1IJ8XvPOb3k-aEg0UX5Zp96sA-8C_PthB/view?usp=sharing) <br>
-Download the data:
+Download the data and put it in the the following structure:
+.(project root)/data/
+		├── nyu2_test
+		├── nyu2_test.csv
+		├── nyu2_train
+		└── nyu2_train.csv
+
 [NYU-v2 dataset](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) <br>
 + ### Demo<br>
   python demo.py<br>
