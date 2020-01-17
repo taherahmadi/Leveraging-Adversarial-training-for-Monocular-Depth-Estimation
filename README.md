@@ -16,13 +16,13 @@ Running
 Download the trained models and put in the root of project:
 [Depth estimation networks](https://drive.google.com/file/d/1IJ8XvPOb3k-aEg0UX5Zp96sA-8C_PthB/view?usp=sharing) <br>
 Download the data and put it in the the following structure:
-.(project root)/data/
-		├── nyu2_test
-		├── nyu2_test.csv
-		├── nyu2_train
-		└── nyu2_train.csv
-
 [NYU-v2 dataset](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) <br>
+.(project root)/data/<br>
+		├── nyu2_test<br>
+		├── nyu2_test.csv<br>
+		├── nyu2_train<br>
+		└── nyu2_train.csv<br>
+
 + ### Demo<br>
   python demo.py<br>
 + ### Test<br>
