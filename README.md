@@ -7,10 +7,9 @@ Parham Yassini*, Taher Ahmadi*, Elnaz Mehrzadeh*, Dorsa Dadjoo*, Fatemeh Hasiri*
 
 Results
 -
-![](https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/demo.gif)
-![](https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_1.png)
-![](https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_2.png)
-
+<img src="https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/demo.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_1.png" width="400"/>
+<img src="https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_2.png" width="400"/>
 Dependencies
 -
 + python 3.7<br>
