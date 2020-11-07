@@ -1,7 +1,8 @@
 # Leveraging-Adversarial-training-for-Monocular-Depth-Estimation
 adding a discriminator network and introducing two new loss functions for monocular depth estimation
 Parham Yassini*, Taher Ahmadi*, Elnaz Mehrzadeh*, Dorsa Dadjoo*, Fatemeh Hasiri*
-* \*Equal Contribution *
+
+*\*Equal Contribution*
 
 Results
 -
