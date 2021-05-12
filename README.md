@@ -1,5 +1,5 @@
 # Leveraging-Adversarial-training-for-Monocular-Depth-Estimation
-adding a discriminator network and introducing two new loss functions for monocular depth estimation
+Achiving hugher accuray in the details of the onjects in depth maps by adding a discriminator network, adverserial training, and introducing two new loss functions for monocular depth estimation
 
 Parham Yassini*, Taher Ahmadi*, Elnaz Mehrzadeh*, Dorsa Dadjoo*, Fatemeh Hasiri*
 
@@ -12,6 +12,7 @@ Results
 <img src="https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_1.png" width="400"/>
 </p>
 <img src="https://raw.githubusercontent.com/taherahmadi/Leveraging-Adversarial-training-for-Monocular-Depth-Estimation/master/examples/results_2.png" width="600"/>
+
 Dependencies
 -
 
